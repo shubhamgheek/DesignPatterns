@@ -9,20 +9,8 @@ public class Product {
         this.productPrice = productPrice;
     }
 
-    public String getProductName() {
-        return productName;
-    }
-
-    public void setProductName(String productName) {
-        this.productName = productName;
-    }
-
     public Float getProductPrice() {
         return productPrice;
-    }
-
-    public void setProductPrice(Float productPrice) {
-        this.productPrice = productPrice;
     }
 
     @Override
